@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require" : {
-      "phpoffice/phpexcel": "dev-master"
+      "phpoffice/phpexcel": "^1.8"
     },
     "autoload": {
       "psr-0": {
