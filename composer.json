@@ -1,11 +1,11 @@
 {
-    "name": "tricd/easy-phpexcel",
+    "name": "rbraband/easy-phpexcel",
     "description": "It's a simple wrapper to support easy Excel document creation with PHPExcel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Tobias Redmann",
-            "email": "tobias.redmann@gmail.com"
+            "name": "Roland Braband",
+            "email": "r.braband@web.de"
         }
     ],
     "minimum-stability": "dev",
